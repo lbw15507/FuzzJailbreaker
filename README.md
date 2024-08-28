@@ -1,5 +1,5 @@
 # FuzzJailbreaker: 一种用于发现LLMs中越狱漏洞的创新通用模糊测试框架
-> 可访问 [作品主页](https://mumuyeye.github.io/DtFormer/README.html)。
+> 可访问 [作品主页](https://lbw15507.github.io/Demo_FuzzJailbreaker/)。
 ![image](https://lbw15507.github.io/images/overview.png)
 
 ## 介绍
