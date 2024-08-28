@@ -1,6 +1,6 @@
 # FUZZLLM: A Novel and Universal Fuzzing Framework for Discovering Jailbreak Vulnerabilities in LLMs
 
-![image](https://github.com/RainJamesY/FuzzLLM/assets/119802220/cfb23523-02ee-4457-a491-151f3b2c1bc8)
+![image](https://github.com/lbw15507/FuzzJailbreaker/images/overview.png)
 
 
 ## Introduction
@@ -8,13 +8,9 @@ This repository contains code and data for "FUZZLLM: A Novel and Universal Fuzzi
 
 FUZZLLM is an innovative framework for proactively identifying and addressing jailbreak vulnerabilities in Large Language Models (LLMs). This framework automates the generation and testing of complex prompts to effectively evaluate LLM security.
 
-`construction/jailbreak_prompts/csv`: Dataset is available here, containing 7 types of jailbreak prompts presented in our paper! 😍😍😍
+`construction/jailbreak_prompts/csv`: Dataset is available here, containing 7 types of jailbreak prompts presented in our work! 😍😍😍
 
-For a visual summary of our research, please see the poster:
-
- ![Poster](https://github.com/mumuyeye/FuzzLLM/blob/assets/FUZZLLM_Poster.jpg) 
-
-This poster provides a concise overview of the FUZZLLM framework, highlighting the main features and results from our study.
+![image](https://github.com/lbw15507/FuzzJailbreaker/images/pipeline.png)
 
 ## Table of Contents
 
